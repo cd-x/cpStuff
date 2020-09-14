@@ -16,3 +16,18 @@
 
 [Theory](https://codeforces.com/blog/entry/22276)
 [solution](https://codeforces.com/blog/entry/81867?#comment-685999)
+
+## System Design
+
+[Problems and solutions](https://github.com/prasadgujar/low-level-design-primer/blob/master/solutions.md)
+
+## Subject Preparation Guide
+
+[Operating System](https://tushars.xyz/data/os.html)
+
+[DBMS](https://tushars.xyz/data/db.html)
+
+[Computer Networks](https://tushars.xyz/data/cn.html)
+
+[OOPS](https://www.javatpoint.com/java-tutorial)
+
