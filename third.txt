@@ -1,3 +1,5 @@
 this is the third file
 
 The new title is : Text added in third file after branching to new-title
+
+Copyright: Copyright file added in copyright branch and trying no fast forward merge
