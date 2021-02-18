@@ -3,3 +3,6 @@ this is the third file
 The new title is : Text added in third file after branching to new-title
 
 Copyright: Copyright file added in copyright branch and trying no fast forward merge
+
+Simple Change: changing or infact adding somthing in third.txt through simple-change branch
+		and will be merged automatically and parallely we will edit first.txt in master branch
