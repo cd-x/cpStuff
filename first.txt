@@ -1,1 +1,3 @@
-some changes   ds "theree u go ...."
+some changes  "there u go ...."
+
+As promised we are changing first.txt in master to see reflection after merging simple-change branch.
