@@ -1,0 +1,6 @@
+Link: fourth.txt (head -> rebase-branch)
+
+[Note: created in master branch but rebase-branch is not aware of it]
+
+since fourth.txt depends upon rebase-master.txt we will have rebase master
+so that both can be linked successfully.
