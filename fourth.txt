@@ -4,3 +4,6 @@ Depends upon : rebase-master.txt
 
 (During creation of this file rebase-master didn't exist)
 
+[update: now dependent file is present but in master to import successfully we need to rebase]
+
+[INFO: rebasing-  git rebase master]
