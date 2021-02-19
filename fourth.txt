@@ -1,0 +1,6 @@
+==== FOURTH FILE TO CHECK REBASE ======
+
+Depends upon : rebase-master.txt
+
+(During creation of this file rebase-master didn't exist)
+
