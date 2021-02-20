@@ -11,3 +11,8 @@ STATUS: It can only be stashed if file was already staged by git and we are upda
 =======
 [INFO 1]: after only staging and stashing this file it also unlist this file from git repository
 >>>>>>> Stashed changes
+
+
+[INFO 3]: update to check command git stash [apply] | [drop]
+
+[INFO 4]: Git stash [pop] does both [apply] the changes and [drop] the stash. 
