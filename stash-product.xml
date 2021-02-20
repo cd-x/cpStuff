@@ -1,0 +1,8 @@
+<products>
+	<item>
+		<id>1</id>
+		<name>shampoo</name>
+		<brand>dove</brand>
+		<price>123</price>
+	</item>
+</products>
