@@ -6,4 +6,8 @@ STASHING: The concept of stashing is to stash a WIP (work in progress file) and 
 STATUS: It can only be stashed if file was already staged by git and we are updating it.
 	file can't be stashed if it is newly created and git has no idea about new file.
 
+<<<<<<< Updated upstream
 [INFO 2]: when i am adding this line there was no [INFO 1]
+=======
+[INFO 1]: after only staging and stashing this file it also unlist this file from git repository
+>>>>>>> Stashed changes
