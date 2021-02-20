@@ -1,0 +1,12 @@
+Tagging example: 1.0
+  myapp:
+    image: rrishi633/frst-repo
+    tag: 1.0
+    container: myapp
+    depends on: mongodb
+
+  mongodb:
+    image: mongo
+    tag: latest
+    container: mongodb
+
