@@ -1,0 +1,5 @@
+File created to demonstrate stashing
+
+right now we have changed stash.txt but didn't staged it 
+
+but i have stashed it so it is in its previous state with keeping changes in stash
