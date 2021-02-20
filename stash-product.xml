@@ -5,4 +5,10 @@
 		<brand>dove</brand>
 		<price>123</price>
 	</item>
+	<item>
+		<id>2</id>
+		<name>soap</name>
+		<brand>dettol</brand>
+		<price>50</price>
+	</item>
 </products>

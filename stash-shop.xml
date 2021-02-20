@@ -4,4 +4,9 @@
 		<type>sweets</type>
 		<gst>GST3214</gst>
 	</shop>
+	<shop>
+		<name>haldiram</name>
+		<type>snacks</type>
+		<gst>GST1123</gst>
+	</shop>
 </shops>
