@@ -1,1 +1,2 @@
 =============something to learn again=============
+/usr/bin/bash: q: command not found
